@@ -20,7 +20,7 @@ const ContactSection = () => (
 
           <div className="space-y-5">
             {[
-              { icon: Phone, text: "+1 (713) 555-0192" },
+              { icon: Phone, text: "+1 (603) 999-7856" },
               { icon: Mail, text: "info@drillsyncsystems.com" },
               { icon: MapPin, text: "Houston, TX — Aberdeen, UK — Dubai, UAE" },
             ].map((item) => (
